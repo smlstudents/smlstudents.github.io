@@ -5,9 +5,24 @@
     <description>Long Form Jekyll theme built with SASS</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jul 2024 15:26:05 +0200</pubDate>
-    <lastBuildDate>Thu, 18 Jul 2024 15:26:05 +0200</lastBuildDate>
+    <pubDate>Thu, 25 Jul 2024 10:11:53 +0200</pubDate>
+    <lastBuildDate>Thu, 25 Jul 2024 10:11:53 +0200</lastBuildDate>
     <generator>Jekyll v4.3.2</generator><item>
+        <title>Abdul Jalil Zakaria at GIZ Rwanda</title>
+        <description>&lt;p&gt;Abdul is an alumnus of the CMU-Africa Class of 2024 within the MS-ECE Program. He works as a consultant with the Climate, Energy, and Sustainable Urban Development Cluster of GIZ Rwanda, contributing to various electric mobility project components. These projects aim to support the Rwandan government in electrifying public transport fleets in secondary/satellite cities and intercity transport, as well as promoting the electrification of the transport sector in Rwanda through capacity building and awareness raising.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/abdulprofile.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; style=&quot;margin-left:25%;&quot; title=&quot;Abdul Jalil Zakaria&quot; /&gt;
+	&lt;figcaption&gt;Abdul Jalil Zakaria&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;His current responsibilities include supporting the development of a policy paper on minibus electrification, conducting research on capacity needs assessment for public transport electrification, and developing a concept for EV maintenance training for the private sector.&lt;/p&gt;
+
+&lt;p&gt;Abdul is thrilled to be part of the GIZ Mobility Team, working towards making mobility more sustainable and contributing to the transformation of the transport sector in Rwanda.&lt;/p&gt;
+
+</description><description>&lt;p&gt;Abdul is an alumnus of the CMU-Africa Class of 2024 within the MS-ECE Program. He works as a consultant with the Climate, Energy, and Sustainable Urban Development Cluster of GIZ Rwanda, contributing to various electric mobility project components. These projects aim to support the Rwandan government in electrifying public transport fleets in secondary/satellite cities and intercity transport, as well as promoting the electrification of the transport sector in Rwanda through capacity building and awareness raising.&lt;/p&gt;
+</description><pubDate>Thu, 25 Jul 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/abdul-Jalil-giz/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/abdul-Jalil-giz/</guid></item><item>
         <title>Fabrice Sindambiwe at Kabisa</title>
         <description>&lt;p&gt;Fabrice Sindambiwe is currently a Charging Infrastructure intern at Kabisa, an e-mobility company providing electric vehicle services in Africa. Below are the daily tasks Fabrice is involved in:&lt;/p&gt;
 
