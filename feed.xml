@@ -5,9 +5,22 @@
     <description>Long Form Jekyll theme built with SASS</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jul 2024 12:04:58 +0200</pubDate>
-    <lastBuildDate>Thu, 25 Jul 2024 12:04:58 +0200</lastBuildDate>
+    <pubDate>Wed, 31 Jul 2024 09:34:06 +0200</pubDate>
+    <lastBuildDate>Wed, 31 Jul 2024 09:34:06 +0200</lastBuildDate>
     <generator>Jekyll v4.3.2</generator><item>
+        <title>David Tuyishimire Neza</title>
+        <description>&lt;p&gt;I am excited to share my progress as an intern at the Smart Mobility Lab and Volkswagen Mobility Solutions Rwanda. I have had a great experience with Serge and his team, who have been instrumental in helping me achieve my goals and succeed in my work. Their feedback and support have been invaluable.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/David-vw.JPG&quot; alt=&quot;&quot; width=&quot;60%&quot; style=&quot;&quot; title=&quot;David Tuyishimire Neza&quot; /&gt;
+	&lt;figcaption&gt;David Tuyishimire Neza&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I am currently working on a driver profiling platform/system, which will be crucial in understanding the different metrics contributing to a driver’s efficiency and success. This platform will help Volkswagen Mobility Solutions Rwanda’s ride-hailing service “Move” continue to provide world-class services to its customers. By leveraging data science and technology, we can significantly improve the quality of services we offer.&lt;/p&gt;
+</description><description>&lt;p&gt;I am excited to share my progress as an intern at the Smart Mobility Lab and Volkswagen Mobility Solutions Rwanda. I have had a great experience with Serge and his team, who have been instrumental in helping me achieve my goals and succeed in my work. Their feedback and support have been invaluable.&lt;/p&gt;
+</description><pubDate>Wed, 31 Jul 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/david-neza-vw/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/david-neza-vw/</guid></item><item>
         <title>Chryssie Karera: My internship experience at VWSR</title>
         <description>&lt;figure&gt;
 	&lt;img src=&quot;/assets/img/chryssieprofile.jpeg&quot; alt=&quot;&quot; width=&quot;100%&quot; style=&quot;&quot; title=&quot;Chryssie Karera&quot; /&gt;
