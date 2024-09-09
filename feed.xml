@@ -5,9 +5,47 @@
     <description>Long Form Jekyll theme built with SASS</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Aug 2024 12:07:54 +0200</pubDate>
-    <lastBuildDate>Thu, 22 Aug 2024 12:07:54 +0200</lastBuildDate>
+    <pubDate>Mon, 09 Sep 2024 08:30:31 +0200</pubDate>
+    <lastBuildDate>Mon, 09 Sep 2024 08:30:31 +0200</lastBuildDate>
     <generator>Jekyll v4.3.2</generator><item>
+        <title>Fabrice Sindambiwe: My summer internship at KABISA Electric Ltd</title>
+        <description>&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/kabisa-event.jpg&quot; alt=&quot;&quot; width=&quot;70%&quot; style=&quot;&quot; title=&quot;Fabrice Sindambiwe&quot; /&gt;
+	&lt;figcaption&gt;Fabrice Sindambiwe at a Kabisa event&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This summer, I had the incredible opportunity to intern at KABISA Electric Ltd., a leading electric vehicle distributor and EV ecosystem company in Rwanda. KABISA’s mission to simplify electric vehicle adoption and ownership in Rwanda aligns perfectly with my passion for renewable energy and sustainable technologies. As a Charging Infrastructure Engineer, I was involved in various tasks, including site visits for potential charger installations, installing chargers at different levels, participating in after-sales operations, and educating EV users on charging schemes. The experience allowed me to work hands-on with a cutting-edge EV charging network and to see the real-life application of e-mobility solutions.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/kabisa-team.jpg&quot; alt=&quot;&quot; width=&quot;80%&quot; style=&quot;&quot; title=&quot;Fabrice Sindambiwe&quot; /&gt;
+	&lt;figcaption&gt;Fabrice Sindambiwe and the Kabisa team&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Throughout my internship, I was fortunate to contribute to several key projects, such as installing chargers at Viebeg Warehouse, SAWA Citi Supermarket, IREMBO Campus, and SOLID Africa, among other locations. A highlight was participating in the setup of a 240kW Supercharger at SP KANOMBE I and expanding the charging network across 15 SP Stations. My final contribution before resuming my studies was leading the installation of three Level 2 Chargers at SP NYAMATA, SP MUHANGA, and SP RWAMAGANA. These projects not only deepened my technical knowledge but also gave me valuable insights into the growing field of e-mobility.&lt;/p&gt;
+
+&lt;!-- &lt;div style=&quot;display:flex;&quot;&gt; --&gt;
+&lt;figure&gt;
+	&lt;div style=&quot;display:flex;&quot;&gt;
+	&lt;img src=&quot;/assets/img/KABs.bmp&quot; alt=&quot;&quot; width=&quot;40%&quot; style=&quot;&quot; title=&quot;Fabrice Sindambiwe&quot; /&gt;
+	&lt;img src=&quot;/assets/img/Kbas.png&quot; alt=&quot;&quot; width=&quot;40%&quot; style=&quot;&quot; title=&quot;Fabrice Sindambiwe&quot; /&gt;
+	&lt;/div&gt;
+
+	&lt;figcaption&gt;Fabrice Sindambiwe at work!&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!-- &lt;figure&gt;
+	&lt;img src=&quot;/assets/img/KABs.bmp&quot; alt=&quot;&quot; width=&quot;70%&quot; style=&quot;&quot; title=&quot;Fabrice Sindambiwe&quot;&gt;
+	&lt;figcaption&gt;Fabrice Sindambiwe at work!&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;!-- &lt;/div&gt; --&gt;
+
+&lt;p&gt;Working with the KABISA team was an enriching experience, both professionally and personally. I had the pleasure of collaborating with a talented and joyful group of professionals, forming lasting friendships with colleagues like Lukas, Ryan, Lim, Winston, Alex, Mary, Iliiza, Nick Hu, Marumbo, Remy, Rodrigue, David, and others. The internship concluded with a memorable retreat at UMVA MUHAZI, which was a perfect way to celebrate our accomplishments. I’m truly grateful for this opportunity and look forward to the possibility of working with the KABISA team again in the future.&lt;/p&gt;
+</description><description>&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/kabisa-event.jpg&quot; alt=&quot;&quot; width=&quot;70%&quot; style=&quot;&quot; title=&quot;Fabrice Sindambiwe&quot; /&gt;
+	&lt;figcaption&gt;Fabrice Sindambiwe at a Kabisa event&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description><pubDate>Tue, 03 Sep 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/fabrice-sindambiwe-work-highlights/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/fabrice-sindambiwe-work-highlights/</guid></item><item>
         <title>Abdul Jalil Zakaria: Work Highlights</title>
         <description>&lt;p&gt;My work at GIZ over the past months has been an enriching experience, marked by both learning
 and applying new skills to impactful projects. I developed a concept note for a capacity needs
